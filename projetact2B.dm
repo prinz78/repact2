@@ -1,7 +1,7 @@
 #include "login.h"
 #include "ui_login.h"
 #include <QMessageBox>
-#include <windows.>
+#include <windows.h>
 Login::Login(QWidget *parent) :
     QMainWindow(parent),
         ui(new Ui::Login)
