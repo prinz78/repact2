@@ -1,4 +1,4 @@
-ude "bienvenue.h"
+#include "bienvenue.h"
 #include "ui_bienvenue.h"
 
 Bienvenue::Bienvenue(QWidget *parent) :
